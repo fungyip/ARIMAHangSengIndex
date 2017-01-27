@@ -75,7 +75,7 @@ plot(HSI_Close)
 ```
 
 ![ARIMA Modelling](./DataOut/Historical HSI.png)
-Historical Hang Seng Index Movement
+
 ![ARIMA Modelling](./DataOut/HSI Close.png)
 
 
