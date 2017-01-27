@@ -45,8 +45,7 @@ Q is the number of seasonal moving average terms.
 ## 1. Key Questions
 
 * When to buy?
-CLSA says during the period of April and July is expected on the rise.
-ARIMA says Sep to Dec up.
+CLSA says during the period of April and July is expected on the rise while ARIMA says Sep to Dec up.
 
 ## 2. Problem Solving
 
@@ -74,9 +73,9 @@ HSI_Close <- ts(HSI_data_Close, start = starttime, end = endtime, frequency = fr
 plot(HSI_Close)
 
 ```
-ARIMA Modelling Prediction
+
 ![ARIMA Modelling](./DataOut/Historical HSI.png)
-ARIMA Modelling Prediction
+Historical Hang Seng Index Movement
 ![ARIMA Modelling](./DataOut/HSI Close.png)
 
 
