@@ -1,3 +1,12 @@
+---
+Title: "Using ARIMA Model to predict Hang Seng Index movement in 2017"
+Author: "Fung YIP"
+Date: "27 Jan 2017"
+Output:
+  html_document: default
+---
+
+
 ## Introduction
 This repository is created to predict Hang Seng Index 恆生指數 in 2017 using ARIMA Modelling in comparison with CLSA Feng Shui Index available on <https://www.clsa.com/special/fsi/2017/>
 
