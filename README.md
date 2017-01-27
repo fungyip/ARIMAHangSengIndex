@@ -2,8 +2,7 @@
 Title: "Using ARIMA Model to predict Hang Seng Index movement in 2017"
 Author: "Fung YIP"
 Date: "27 Jan 2017"
-Output:
-  html_document: default
+Result: According to the ARIMA Modelling, December is expected to see the highest momentum of Hang Seng Index. In contrast, CLSA Feng Shui Index predicts July reach its peak
 ---
 
 
